@@ -1,6 +1,6 @@
 # Hi there 👋, I am Mohammad Iftakhar Hossain
 #### Professional Frontend web developer & WordPress Theme Developer
-I am a professional Front-end developer & WordPress Developer. Full and fresh hand code is my power. Client Satisfaction is my fast priority.  
+I am a professional Web developer & WordPress Developer. Full and fresh hand code is my power. Client Satisfaction is my fast priority.  
 
 Skills: HTML/CSS/JAVASRIPT/REACT/PHP/MYSQL/LARAVEL
 
