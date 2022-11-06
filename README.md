@@ -1,5 +1,4 @@
 # Hi there 👋, I am Mohammad Iftakhar Hossain
-<h1 align="center">Hi 👋, I'm Mohammad Iftakhar Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharit&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharit" /> </p>
