@@ -2,7 +2,7 @@
 #### Professional Frontend web developer & WordPress Theme Developer
 I am a professional Frontend Web developer & WordPress Developer. Full and fresh hand code is my power. Client Satisfaction is my fast priority.  
 
-Skills: HTML/CSS/JAVASRIPT/REACT/PHP/MYSQL/LARAVEL
+Skills: HTML/CSS/BOOTSTRAP/JAVASRIPT
 
 - 🔭 I’m currently working on e-commerce project 
 - 🌱 I’m currently learning Javascript(react) & MongoDB 
