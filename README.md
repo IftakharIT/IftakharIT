@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP AND BASIC JAVASCRIPT**
 
-- 📫 How to reach me **iftakharit.info@gmail.com**
+- 📫 How to reach me **iftakharit.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
